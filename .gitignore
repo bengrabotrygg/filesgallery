@@ -1,3 +1,4 @@
 .env
 .DS_Store
 license.txt
+public/_files/cache
